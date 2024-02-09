@@ -1,0 +1,1 @@
+# github-pricing-rules
